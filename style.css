@@ -1,1 +1,15 @@
+:root{
+    --acinzetado:#E0E1DD;
+    --azulado:#778DA9;
+    --azul:#415A77;
+    --azul-escuro:#1B263B;
+    --preto:#0D1B2A;
+}
 
+.cabecalho{
+    background-color: var(--azul);
+}
+
+.logo{
+    width: 10%;
+}

@@ -8,8 +8,19 @@
 
 .cabecalho{
     background-color: var(--azul);
+    display:flex;
+    justify-content:start ;
 }
-
+.menu-item{
+    
+    padding: 5px;
+    margin-top: 15px;
+    color: var(--azulado);
+    font-size: 25px;
+}
 .logo{
-    width: 10%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 9%;
 }

@@ -6,6 +6,11 @@
     --preto:#0D1B2A;
 }
 
+*{
+    margin: 0;
+    padding: 1;
+}
+
 .cabecalho{
     background-color: var(--azul);
     display:flex;
@@ -23,4 +28,9 @@
     margin-left: 10px;
     margin-bottom: 10px;
     width: 9%;
+}
+
+.principal{
+    background-color: var(--preto);
+    color: var(--azulado)
 }

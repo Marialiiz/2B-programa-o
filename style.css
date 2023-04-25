@@ -32,5 +32,19 @@
 
 .principal{
     background-color: var(--preto);
-    color: var(--azulado)
+    color: var(--azulado);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal__tiulo{
+    font-size: 40px;
+}
+.principal__texto{
+    padding: 20px;
+    font-size: 25px;
+}
+.principal__imagem{
+    padding: 15px;
+
 }
